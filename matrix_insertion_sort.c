@@ -22,7 +22,7 @@
 
 void sort_matrix(int **matrix, int n) {
     // TODO: Implementa aquí el algoritmo.
-    // Pista: necesitarás un método de ordenamiento (inserción, burbuja, etc.)
+    // Necesitarás el método de inserción,
     // pero recuerda aplicar la regla de mover toda la columna.
 }
 
