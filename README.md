@@ -55,4 +55,4 @@ $$
 El resultado buscado es que cada renglón está ordenado de menor a mayor, y los elementos de un renglón son menores que los del siguiente.
 
 ---
-Trabaja sobre el documento "main.c" que se encuentra en este repositorio para la implementación de tu algoritmo.
+Trabaja sobre el documento "matrix_insertion_sort.c" que se encuentra en este repositorio para la implementación de tu algoritmo.
